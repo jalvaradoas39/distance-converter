@@ -11,7 +11,7 @@ This project was a school assignment for my Java programming course. The task wa
 The program uses a conversion rate where 1 inch is equal to 2.54 centimeters.
 
 ## What I Learned
-This assignment introduced me to several Swing GUI components and concepts in Java that were new and very helpful to understand. Here are a few key points I learned:
+This assignment introduced me to several Swing GUI components and concepts in Java that were very helpful to understand. Here are a few key points I learned:
 
 - **Swing GUI Components**: I became familiar with using `JTextField`, `JLabel`, `JButton`, `JFrame`, `JTable`,`JFileChooser`, and other components in the Swing library to create an interactive graphical interface. Understanding how to use these components was essential to build a user-friendly application.
 
