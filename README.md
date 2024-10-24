@@ -1,5 +1,5 @@
 # Distance Converter Program
-___
+
 ## Description
 This project was a school assignment for my Java programming course. The task was to write a Java program with a graphical interface that allows the user to convert a distance from inches to centimeters or from centimeters to inches. The user interface needed to include the following elements:
 
