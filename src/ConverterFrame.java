@@ -12,6 +12,7 @@ import java.awt.event.ActionListener;
 
 /**
  * Title: Distance Converter GUI
+ *
  * Description:
  * This class provides a graphical user interface for converting distances
  * from inches to centimeters or from centimeters to inches. It contains

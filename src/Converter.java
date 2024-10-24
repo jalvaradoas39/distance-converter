@@ -2,6 +2,7 @@ import javax.swing.JFrame;
 
 /**
  * Title: Distance Converter
+ *
  * Description:
  * This program provides a graphical interface to convert distances
  * between inches and centimeters. The user can enter a value in a text box,
