@@ -16,13 +16,3 @@ This assignment introduced me to several Swing GUI components and concepts in Ja
 - **Swing GUI Components**: I became familiar with using `JTextField`, `JLabel`, `JButton`, `JFrame`, `JTable`,`JFileChooser`, and other components in the Swing library to create an interactive graphical interface. Understanding how to use these components was essential to build a user-friendly application.
 
 - **ActionListeners**: Although I was already familiar with using event listeners and event handlers in JavaScript, it was interesting to see how these concepts are implemented in Java. In Java, a GUI may contain multiple ActionListeners, and it is essential to specify the correct ActionListener for each action event. This way, the program can respond correctly to user inputs.
-
-## Usage
-To compile and run the program, use the following commands:
-
-```bash
-# Compile the Java files
-javac Converter.java ConverterFrame.java
-
-# Run the program
-java Converter
